@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta preta",
+      "preco": 5.86
+    },
+    {
+      "id": 2,
+      "name": "notebook macpro",
+      "preco": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "sansung s20",
+      "preco": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "cal",
+      "price": "3.50",
+      "id": 7
+    },
+    {
+      "name": "gta 6",
+      "price": "100",
+      "id": 8
+    },
+    {
+      "name": "mouse top",
+      "price": "30",
+      "id": 9
+    },
+    {
+      "name": "rrrr",
+      "price": "01",
+      "id": 10
+    },
+    {
+      "name": "dfd",
+      "price": "02",
+      "id": 11
+    }
+  ]
+}
